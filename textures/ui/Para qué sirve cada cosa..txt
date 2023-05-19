@@ -1,0 +1,31 @@
+-achievements_dialog.png - Cuadro de texto para los logros.
+-background_image.png - No cambia nada.
+-background_panel.png - No cambia nada.
+-beacon_item_separator_pocket.png - Separador del beacon
+-brewing_fuel_bar_empty.png - Ahí dice
+-brewing_fuel_bar_full.png - Ahí dice x2
+-brewing_fuel_empty.png - Ahí dice x3
+-brewing_fuel_pipes.png - Ahí dice x4
+-brewing_pipes.png - Ahí dice x5
+-bubbles_empty.png - Ahí dice x6
+-bubbles_full.png - Ahí dice x7
+-button_borderless_dark.png - Cambia los botones dónde se muestran los nombres de los mundos y el botón de la corona al lado del nombre de usuario.
+-button_borderless_imagelesshoverbg.png - Es la < del menú de ajustes.
+-button_borderless_light.png - Es parte de los botones "invitar al juego", "reanudar juego"; "ajustes", "mercado"; "guardar y salir", "comentarios" y "logros" del menú de pausa además de el botón "crear nuevo" y "abrir" del menú de mundos en la pantalla principal.
+-button_borderless_lightpressednohover.png - Marca la casilla dónde uno se encuentra dentro del menú de ajustes.
+-cell_image.png - Son todos los lugares dónde hay un item (inventario, slot de armadura, sltots de la mesa de trabajo, cofres, etc).
+-chat_send.png - Es el ícono café de dialogo en la parte del chat.
+-checkbox_space.png - No cambia nada.
+-classic_button.png - No cambia nada.
+-dialog_background_opaque.png - Es todo lo que contiene al personaje y el menú del creativo.
+-dialog_background_opaque_overlap_bottom.png - Es la barra de acceso rápido para el creativo.
+-highlight_slot.png - Es la textura cuando pasas el cursor sobre cualquier lugar que pueda contener un item.
+-menubackground.png - 
+-text_edit_base.png - No cambia nada.
+-text_edit_hover.png - No cambia nada.
+-toggle_off.png - Ahí dice x8
+-toggle_off_hover.png - Ahí dice x9
+-toggle_on.png - Ahí dice x10
+-toggle_on_hover.png - Ahí dice x11
+-toolbar_background.png - Es la parte dónde cambias de modo (libro abierto, libro y cofre, y cofre) más la x dentro del inventario.
+-XTab.png - Es la x del menú de inicio, dónde seleccionan los mundos.
