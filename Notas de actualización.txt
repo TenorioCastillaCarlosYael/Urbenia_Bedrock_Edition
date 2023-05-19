@@ -1,0 +1,220 @@
+2.9.4 - Urbenia - 17/05/23
+Arreglar el soporte para armaduras.
+Colocar bien los nombres para las terracotas.
+- Se cambió la textura de los ladrillos del nether.
+- Se cambió la textura de los ladrillos del nether rotos.
+- Se cambió la textura de los ladrillos del nether cincelados.
+- Se cambió la textura de la librería.
+- Se cambió la textura de la piedra del fin.
+- Se cambió la textura de la los ladrillos del fin.
+- Se cambió la textura de la vara del end.
+- Se cambió la textura de la piedra labrada.
+
+2.9.3 - Urbenia - 13/10/22
+- Se cambió la textura de los botones de control en modo táctil.
+- Se cambió la textura del panorama.
+- Se agregó un subpack para las armaduras invisibles. (Por alguna razón no funciona).
+- Se intentó cambiar el modelo de las armaduras para hacer que el casco de cuero se parezca a un sombrero (aún por arreglar).
+- Se cambió la textura del item del estante para armaduras.
+- Se agregó un subpack para poner todo en "modo oscuro".
+- Se cambió la imágen del título cuando está en "modo oscuro".
+- Se cambió la textura de los esqueletos.
+- Se cambió el modelo de los esqueletos.
+- Se cambió la textura del panorama cuando está en "modo oscuro".
+- Se cambió la textura de la lámpara de redstone (apagada y prendida).
+- Se cambió la textura de la skin de Alex.
+- Se cambió la textura de la skin de Steve.
+- Se cambió la textura de la escalera de mano.
+- Se cambió la textura de la terracota gris cristalizada.
+- Se cambió la textura del tocadiscos (lados y encima).
+- Se cambió la textura de la diorita, andesita y granito.
+- Se cambió la textura de la terracota rosa cristalizada.
+- Se cambió la textura de la terracota blanca cristalizada.
+- Se cambió la textura de la terracota cyan cristalizada.
+
+2.9.2 - Urbenia - 29/07/22
+- Se cambió la textura del tótem de la inmortalidad.
+- Se cambió la textura de los estantes para armaduras.
+- Se cambió el modelo del warden*
+- Se cambió la textura del warden*
+- Se agregó el texto splash  "§dUR§fBE§3NIA".
+- Se agregó el texto splash  "§dUr§fbe§3nia".
+- Se agregó el texto splash  "Dios Torrente!".
+- Se agregó el texto splash  "Diosa Paty!".
+- Se agregó el texto splash  "Diosa Frye!".
+- Se cambió la textura de la cubeta con renacuajo.
+- Se cambió la textura del item del cofre de ender.
+- Se cambió el modelo del warden.
+- Se cambió la textura del warden.
+- Se eliminó la textura de los aldeanos (se cambiará después).
+- Se cambió la textura de los calamares.
+- Se cambió la textura de la rueda de carga.
+- Se cambió la textura de la barra de carga.
+- Se cambió la textura de un botón con una "X".
+- Se cambió la textura de los botones (provicionalmente).
+- Se cambió el fondo del vestidor de personajes.
+- Se cambió el tip No. 18.
+- Se cambió el tip No. 19.
+- Se cambió el tip No. 20.
+
+*Se tomó la idea de un pack de texturas para llamado "Warden to Herobrine". 
+Link:https://www.planetminecraft.com/texture-pack/warden-to-herobrine/
+
+2.9.1 - Urbenia - 14/07/22
+- Se cambió la textura de los Allays.
+- Se modificó el diseño de los estantes para armaduras*
+- Se modificó la textura de los estantes para armaduras*
+- Se agregó el texto splash "¿Te has visto ya la página web?".
+- Se agregó el texto splash "¡Visita la página web!".
+- Se agregó el texto splash "¡Torrente Allay!".
+
+*Se tomó la idea de un pack de texturas para Java llamado "New Armor-stand 1.19". Link: https://www.planetminecraft.com/texture-pack/new-armor-stand-1-19/
+
+2.9.0 - Urbenia - 06/07/22
+- Se cambió la textura de la calabaza y la calabaza brillante.
+- Se elminaron las canciones personalizadas de los discos (junto con archivos relacionados):
+	13
+	cat
+	chirp
+	far
+	mall
+	mellohi
+	pigstep
+	stal
+	strad
+	wait
+	ward
+- Se cambió el icono de la textura.
+- Se cambió el título y la descripción de la textura.
+- Se cambió la textura de la espada de madera (ahora se ve como un bate).
+- Se cambió el tip No. 1.
+- Se cambió el tip No. 2.
+- Se cambió el tip No. 3.
+- Se cambió el tip No. 4.
+- Se cambió el tip No. 5.
+- Se cambió el tip No. 6.
+- Se cambió el tip No. 7.
+- Se cambió el tip No. 8.
+- Se cambió el tip No. 9.
+- Se cambió el tip No. 10.
+- Se cambió el tip No. 11.
+- Se cambió el tip No. 12.
+- Se cambió el tip No. 13.
+- Se cambió el tip No. 14.
+- Se cambió el tip No. 15.
+- Se cambió el tip No. 16.
+- Se cambió el tip No. 17.
+- Urbenia - 11/07/22 
+- Se cambió la textura del item del casco de cota de malla.
+- Se cambió la textura del item del peto de cota de malla.
+- Se cambió la textura del item de las musleras de cota de malla.
+- Se cambió la textura del item de las botas de cota de malla.
+- Se cambió la textura de la armadura de cota de malla.
+- Se cambió la textura de la armadura de hierro.
+- Se cambió la textura del item del casco de hierro.
+- Se cambió la textura del item del peto de hierro.
+- Se cambió la textura del item de las musleras de hierro.
+- Se cambió la textura del item de las botas de hierro.
+- Se agregaron dos cuadros.
+
+2.8.8 - Urbenia - 13/06/22
+- Se cambió la textura de la pizzarra profunda pulida.
+- Se cambió la textura de la barca de roble.
+- Se cambió la textura de la barca de abeto.
+- Se cambió la textura de la barca de abedúl.
+- Se cambió la textura de la barca de acacia.
+- Se cambió la textura de la barca de la jungla.
+- Se cambió la textura de la barca de roble oscuro.
+- Se cambió la textura de la barca de roble con bote.
+- Se cambió la textura de la barca de abeto con bote.
+- Se cambió la textura de la barca de abedúl con bote.
+- Se cambió la textura de la barca de acacia con bote.
+- Se cambió la textura de la barca de la jungla con bote.
+- Se cambió la textura de la barca de roble oscuro con bote.
+- Se agregó el tip No. 13.
+- Se agregó el tip No. 14.
+- Se agregó el tip No. 15.
+
+2.8.7 - Urbenia - 30/04/22
+- Se cambió la textura del ladrillo de piedra sincelado.
+- Se cambió la textura de la azada de oro, de diamante y de netherita.
+- Se cambió la textura a los cuadros "pigscene" y "match".
+
+2.8.6 - Urbenia - 8/04/22
+- Se cambió la textura del zombie.
+- Se cambió el panorama (actualizando texturas del fondo y estructuras).
+- Se cambió la textura del ahogado.
+- Se arregló la textura del ahogado.
+
+2.8.5 - Urbenia - 23/03/2022
+- Se cambiaron las texturas de los cofres (normal y con trampa) además de su versión doble.
+- Se agregaron nuevos tips de juego.
+- Se cambió la textura del bote de roble.
+- Se cambió la textura de la mesa de trabajo.
+
+2.8.4 - Urbenia - 1/02/2022
+- Se actualizó el panorama.
+- Se cambió la textura del cofre.
+- Se cambió la textura de la trampilla de roble.
+- Se cambió la textura del horno.
+- Se cambió la textura de los ladrillos de piedra sincelados (o grabados).
+- Se cambió la textura del bloque de hierro.
+- Se cambió la textura de la piedra normal.
+- Se cambió la textura de la grava.
+- Se cambió la textura de un cuadro.
+- Se cambiaron las texturas de toda la ui.
+- Se cambió la textura de los ores.
+- Se agregó el splash "Urbenia!".
+- Se comenzaron a cambiar los tips de la pantalla de carga.
+- Se cambió la textura de todos los tulipanes y el de la rosa roja.
+- Se corrigió la textura de los ahogados.
+
+2.8.3 - Urbenia
+- Se eliminaron los íconos de efectos.
+- Se corrigieron algunos cuadros de dialogo.
+- Se cambió la textura del panorama.
+
+2.8.2 - Urbenia
+- Se cambió la textura de la piedra luminosa.
+- Se cambió la textura de la grava (está sujeta a cambios).
+- Se eliminó el archivo "Chirp" debido a un aviso de copyright.
+- Se cambió la textura de la trampilla de roble.
+- Se cambió la textura de las enredaderas.
+- Se cambió la textura del liquen luminoso.
+- Se cambió la textura de la puerta de roble oscuro al igual que su item.
+- Se cambió la textura de las elitras (item y modelo).
+
+2.8.1 - Urbenia
+- Se agregó un audio al disco "Blocks" a petición de dos personas.
+
+2.8.0 - Urbenia
+- Se agregaron 5 nuevos splashes y se corrigio uno:
+	"¡Discos y más discos!",
+	"¡Visita el pueblo de los Azúex!",
+	"¡Pronto entrarás al Infierno!",
+	"¡Azúex, Cígos y Urbenianos #1!",
+	"¡Pregúntale a Paty!",
+	"¡DIOSA PATY!".
+- Se cambiaron 10 discos: 
+	13
+	cat
+	chirp
+	far
+	mall
+	mellohi
+	pigstep
+	stal
+	strad
+	wait
+	ward
+- Se eliminaron los modelos de los aldeanos y aldeanos zombies junto con sus animaciones.
+- Se cambió la textura a los aldeanos, zombies aldeanos y vacas.
+- Se agregó la textura del calamar sin modificaciones.
+
+2.7.5 - Urbenia
+
+- Se cambió el panorama en el menú de inicio
+- Se modificó la textura del panel de cristal Naranja
+- Se cambió la textura de la barra de experiencia
+- Se agregó este documento
+
